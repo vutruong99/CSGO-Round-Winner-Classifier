@@ -8,7 +8,7 @@ a.	A brief description of what the data represents, with a small excerpt of the 
 b.	A discussion on how the dataset satisfies the three criteria above 
 c.	The details for how you can access the data. Use the technical terms that you have learned in class to describe data.
 
-## Part 2: Hypothesis (30 points) 
+## Part 2: Hypothesis
 1.	Is the study you want to conduct experimental or observational? Why? How does that affect your conclusions? 
 2.	State the null and alternate hypothesis 
 3.	What are the dependent and independent variables? 
