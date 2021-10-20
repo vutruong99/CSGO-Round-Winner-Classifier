@@ -1,9 +1,10 @@
 # CSGO-Round-Winner-Classifier
 Project for DSCI-549: Introduction to Computational Thinking and Data Science
 
-* Dataset: CS:GO Round Winner Classification
-* Author: Christian Lillelund
+* Dataset: CS:GO Round Winner Classification by Christian Lillelund
 * Dataset link: https://www.kaggle.com/christianlillelund/csgo-round-winner-classification
+
+---
 
 ## Part 1: Data 
 1.	Define an interesting problem that could be answered through data analysis. Describe the problem to a non-informed audience 
